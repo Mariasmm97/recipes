@@ -1,6 +1,7 @@
 # Guacamole 
 ## Ingredients
-**palta
+**palt
+**limon
 **Lima
 ## Instructions
 
